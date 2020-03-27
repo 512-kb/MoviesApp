@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amatica_sc_bold</item>
+        <item>@font/asap_medium</item>
+        <item>@font/bubbler_one</item>
+        <item>@font/cabin</item>
+        <item>@font/cabin_semibold</item>
+        <item>@font/cairo_semibold</item>
+        <item>@font/comfortaa_bold</item>
+        <item>@font/expletus_sans_semibold</item>
+        <item>@font/ubuntu_bold</item>
+        <item>@font/ubuntu_light</item>
+    </array>
+</resources>

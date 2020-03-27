@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="API_Read_Access_Token">eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJjZTg3NmVhYTQ2YzA2NzQ5OGJkNDk1NTE5MjAzN2E4NyIsInN1YiI6IjVlNzMzMDUyY2FiZmU0MDAxMzFjYjZjYyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.TETKieyv6TNXDVIKf_UKdLkCMgSNQuEI0Iv8k1AAQIE</string>
+    <string name="API_KEY">ce876eaa46c067498bd4955192037a87</string>
+    <string name="API_BASE_URL">https://api.themoviedb.org/3</string>
+    <string name="IMAGE_BASE_URL">https://image.tmdb.org/t/p/w500</string>
+    <string name="MOVIE_VIDEOS_URL">https://api.themoviedb.org/3/movie/MOVIE_ID/videos?api_key=</string>
+    <string name="MOVIE_REVIEWS_URL">https://api.themoviedb.org/3/movie/MOVIE_ID/reviews?api_key=</string>
+    <string name="YOUTUBE_URL">https://www.youtube.com/watch?v=</string>
+    <string name="YOUTUBE_THUMBNAIL">https://img.youtube.com/vi/VID_ID/hqdefault.jpg</string>
+    <string name="actionBarTitle"></string>
+</resources>
